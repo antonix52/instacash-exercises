@@ -1,0 +1,3 @@
+interface Quality {
+    updateQuality(): void;
+}
